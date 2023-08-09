@@ -1,0 +1,44 @@
+* {
+    background-color: #202020;
+}
+
+.stem {
+    background-color: #333333;
+    color: transparent;
+    width: 5%;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+
+.body {
+    background-color: #3C3C3C;
+    color: transparent;
+    width: 10%;
+    height: 300px;
+    margin-left: 665px;
+    margin-top: -20px;
+}
+
+.red {
+    background-color: red;
+    color: transparent;
+    width: 4%;
+    height: 50px;
+    border-radius: 500px;
+}
+
+.yellow {
+    background-color: yellow;
+    color: transparent;
+    width: 4%;
+    height: 50px;
+    border-radius: 500px;
+}
+
+.green {
+    background-color: limegreen;
+    color: transparent;
+    width: 4%;
+    height: 50px;
+    border-radius: 500px;
+}
